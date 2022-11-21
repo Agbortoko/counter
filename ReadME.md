@@ -1,9 +1,11 @@
 # **Quick Counter Component for your HTML Websites**
 This is simply a web counter component for html websites.
 
-[Github]('https://github.com/agbortoko')
-[Facebook]('https://facebook.com/agbortokoarrey/')
-[Twitter]('https://twitter.com/agbortoko_arrey')
+[Github](https://github.com/agbortoko)
+
+[Facebook](https://facebook.com/agbortokoarrey/)
+
+[Twitter](https://twitter.com/agbortoko_arrey)
 
 ## How to
 Simply link the script to your code and use like below.
