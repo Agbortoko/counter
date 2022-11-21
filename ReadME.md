@@ -1,4 +1,5 @@
 # **Quick Counter Component for your HTML Websites**
+
 This is simply a web counter component for html websites.
 
 [Github](https://github.com/agbortoko)

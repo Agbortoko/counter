@@ -1,0 +1,25 @@
+{
+  "name": "simple-js-counter",
+  "version": "1.0.0",
+  "description": "Simple Counter for Website counter component",
+  "main": "counter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agbortoko/counter.git"
+  },
+  "keywords": [
+    "counter",
+    "javascript-counter",
+    "counter-for-html-website",
+    "simple-js-counter"
+  ],
+  "author": "Agbortoko Arreychuck",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Agbortoko/counter/issues"
+  },
+  "homepage": "https://github.com/Agbortoko/counter#readme"
+}
