@@ -15,6 +15,13 @@ Simply link the script to your code and use like below.
     <script src="counter.js"></script>
 ```
 
+## NPM
+
+
+```
+    npm i simple-js-counter
+```
+
 ## Attributes
 
 
